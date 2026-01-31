@@ -1,4 +1,4 @@
-# Faieness Aware Job Recommender Model
+# Fairness Aware Job Recommender Model
 
 ![poster](https://github.com/user-attachments/assets/fb0ef766-74a1-4eef-94e0-54a3f1b4c6e0)
 
